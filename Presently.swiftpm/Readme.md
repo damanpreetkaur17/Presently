@@ -1,4 +1,4 @@
-🎤 StageReady
+🎤 Presently
 A 3-Minute Interactive Warm-Up Before You Present
 StageReady is a production-level iOS app built with SwiftUI (iOS 17+) that helps students reset confidence before presentations, interviews, or viva sessions — in under 3 minutes.
 Fully offline. No backend. Lightweight (<25MB). Smooth, modern, animation-driven experience.
